@@ -5,7 +5,7 @@
 /**
  * Main - Main Block
  * Description: Prints all single digit numbers of base 10
- * startin from 0, followed by a new line
+ * starting from 0, followed by a new line
  * Return: 0
  */
 
